@@ -1,0 +1,29 @@
+Made by TheKidWhoGotExpelled
+==================================
+
+DESCRIPTION:
+A map of the commons area of Clements High School. Why not the whole school? Because the freaking Half-Life 1 engine can't handle it. Don't believe me? Then you go make a map of the whole school for HL1. But yeah, that's basically what it is. And the reason why the floor is not the tiles is because the red carpet looked better. Don't agree? screw you.
+
+NOTES:
+- Missing some details because it would've been too much for the engine to handle =(
+- Some parts of the school don't look EXACTLY like what it really looks like... Am I getting paid to make this map? No...
+- There are leaks in the walls because I wasn't able to test it out fully due to the fact that if I compiled it to test it out, it would've taken days...
+- Other very minor bugs that won't affact gameplay at all (maybe not even worth mentioning, but oh well...)
+- Different gameplay versions of this map along with BOT files will be released eventually
+- That's all for now
+
+
+>>>>>IMPORTANT!!: One of the CT spawn points is 'stuck', so if you spawn there, just suicide or camp.. sorry... =(
+
+
+--> This is only a BETA version, meaning a newer, better version will be released sometime in the future with all "bug" fixes
+
+CREDITS:
+- TheKidWhoGotExpelled - I made the freaking map including some of the textures also
+- SomeGuy - let me use his super fast computer to compile my map
+
+
+Enjoy! =)
+
+
+also enjoy Coca-Cola

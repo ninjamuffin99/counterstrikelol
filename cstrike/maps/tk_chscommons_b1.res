@@ -1,0 +1,15 @@
+chsf.wad
+hwang.wad
+cstrike.wad
+models\chs\plant1.mdl
+models\chs\tree.mdl
+models\chs\tree_b.mdl
+models\chs\bush_s.mdl
+gfx/env/scloudup.tga
+gfx/env/sclouddn.tga
+gfx/env/scloudrt.tga
+gfx/env/scloudlf.tga
+gfx/env/scloudbk.tga
+gfx/env/scloudft.tga
+maps/tk_chscommons_b1.res
+maps/tk_chscommons_b1.txt
